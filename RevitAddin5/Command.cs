@@ -25,7 +25,7 @@ namespace RevitAddin5
             Application app = uiapp.Application;
             Document doc = uidoc.Document;
 
-            TaskDialog.Show("welcome", "you just lunched a command :))");
+            TaskDialog.Show("welcome", "i changed in github))");
             return Result.Succeeded;
         }
     }
